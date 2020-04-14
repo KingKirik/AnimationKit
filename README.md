@@ -1,6 +1,7 @@
 # AnimationKit
 
 **Свойства**
+```
 -displaceX
 -displaceY
 -changeBorderRadius
@@ -8,6 +9,7 @@
 -changeScale
 -changeRGB
 -resize
+```
 
 **Пример**
 
