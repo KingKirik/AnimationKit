@@ -1,5 +1,7 @@
 # AnimationKit
 
+:nail_care:
+
 **Свойства**
 ```
 -displaceX
